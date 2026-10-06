@@ -28,28 +28,36 @@ Jika login sebagai user berhasil, sistem akan menampilkan menu user 1-2:
 
 
 ##Output
+
 <img width="328" height="90" alt="image" src="https://github.com/user-attachments/assets/ed0d131c-90aa-4267-b825-d86fa53aa921" />
+
 hasil kode untuk memasukkan useername daan password admin
 
 <img width="281" height="111" alt="image" src="https://github.com/user-attachments/assets/8fae2e34-2062-48c8-b302-d5562a983a6c" />
+
 hasil kode untuk menu admin
 
 <img width="657" height="487" alt="image" src="https://github.com/user-attachments/assets/b31a6d4f-918e-454a-9d83-b71d6adaf18d" />
+
 hasil kode ketika admin memilih menu 1 dan akan menginput data suhu sampai admin mengetik selesai
 
 <img width="491" height="200" alt="image" src="https://github.com/user-attachments/assets/75f38031-dd1a-42c3-b3fb-82296f070bf8" />
 hasil kode ketika admin memilih menu 2 dan akan menginput suhu yang ingin di hapus
 
 <img width="423" height="154" alt="image" src="https://github.com/user-attachments/assets/4e98a671-75ae-4cf5-8b6e-c709138a7b03" />
+
 hasil kode ketika admin memilih menu 3 dan akan mengubah suhu yang ingin diubah
 
 <img width="468" height="166" alt="image" src="https://github.com/user-attachments/assets/3739e66d-3ab6-43b4-8ca6-56d2fbc2d4d5" />
+
 hasil kode ketika admin memilih menu 4. admin akan keluar dari program
 
 <img width="347" height="128" alt="image" src="https://github.com/user-attachments/assets/e3fac307-4072-4a89-95bb-9720fb77af30" />
+
 hasil kode untuk memasukkan username dan password user
 
 <img width="869" height="243" alt="image" src="https://github.com/user-attachments/assets/67aaa7e5-4ede-48ae-a730-7997cb546ed8" />
+
 hasil kode ketika user memilih menu 1 akan menampilkan daftar cuaca yang tersimpan dan enu 2 akan keluardari program
 
 <img width="1067" height="181" alt="image" src="https://github.com/user-attachments/assets/977bdf5a-5150-4226-aeb2-82c202612e43" />
