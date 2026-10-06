@@ -31,7 +31,7 @@ Jika login sebagai user berhasil, sistem akan menampilkan menu user 1-2:
 
 <img width="328" height="90" alt="image" src="https://github.com/user-attachments/assets/ed0d131c-90aa-4267-b825-d86fa53aa921" />
 
-hasil kode untuk memasukkan useername daan password admin
+hasil kode untuk memasukkan username daan password admin
 
 <img width="281" height="111" alt="image" src="https://github.com/user-attachments/assets/8fae2e34-2062-48c8-b302-d5562a983a6c" />
 
@@ -42,6 +42,7 @@ hasil kode untuk menu admin
 hasil kode ketika admin memilih menu 1 dan akan menginput data suhu sampai admin mengetik selesai
 
 <img width="491" height="200" alt="image" src="https://github.com/user-attachments/assets/75f38031-dd1a-42c3-b3fb-82296f070bf8" />
+
 hasil kode ketika admin memilih menu 2 dan akan menginput suhu yang ingin di hapus
 
 <img width="423" height="154" alt="image" src="https://github.com/user-attachments/assets/4e98a671-75ae-4cf5-8b6e-c709138a7b03" />
